@@ -5,4 +5,5 @@ To know more about the data visit
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T
 https://www.nature.com/articles/sdata2018161
 
+Code was run on CoLab
 I got 87.61% accuracy with progressive resizing. 
