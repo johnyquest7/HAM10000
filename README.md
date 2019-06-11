@@ -1,5 +1,9 @@
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/the-ham10000-dataset-a-large-collection-of/on-ham10000)](https://paperswithcode.com/sota/on-ham10000?p=the-ham10000-dataset-a-large-collection-of)
 # HAM10000
+
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/the-ham10000-dataset-a-large-collection-of/on-ham10000)](https://paperswithcode.com/sota/on-ham10000?p=the-ham10000-dataset-a-large-collection-of)
+
+
 The HAM10000 dataset, a large collection of multi-source dermatoscopic images of common pigmented skin lesions
 In this repo, I am trying to classify skin lesions using FastAI library. 
 To know more about the data visit
